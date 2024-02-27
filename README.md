@@ -8,11 +8,7 @@ Software is hard and complex, there is no avoiding that fact. Here are some thin
 [Seven Habits of Effective Text Editing](https://moolenaar.net/habits.html)
 
 ## Tools
-[Tmux](https://github.com/tmux/tmux/wiki)
-
-[Alacritty](https://github.com/alacritty/alacritty)
-
-[NeoVim](https://neovim.io/)
+[Finding the Last Text Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
 
 
 ## Philosophy
