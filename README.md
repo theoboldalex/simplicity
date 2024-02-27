@@ -26,3 +26,7 @@ tl;dr - focus on a small set of tools and really learn how to use them
 [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 
 [Designing for the web ought to mean making HTML and CSS](https://signalvnoise.com/svn3/designing-for-the-web-ought-to-mean-making-html-and-css/)
+
+[monoliths](https://www.monolithic.dev/)
+
+[You are not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
